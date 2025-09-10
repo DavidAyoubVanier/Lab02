@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 import javafx.scene.image.*;
 import java.util.Random;
 /**
- *
+ * https://github.com/DavidAyoubVanier/Lab02.git
  * @author 6321852
  */
 public class Lab02 extends Application{
